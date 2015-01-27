@@ -932,10 +932,10 @@ a.filterlink-selected {
     display: inline;
   }
   #searchform {
-    display: block;
-    position: absolute;
-    bottom: 2em;
-    right: 4em;
+/*    display: block;*/
+/*    position: absolute;*/
+/*    bottom: 2em;*/
+/*    right: 4em;*/
   }
   #searchform label,
   #searchsubmit {
@@ -1097,7 +1097,7 @@ a.filterlink-selected {
     right: 8em;
   }
   #searchform {
-    right: 8em;
+/*    right: 8em;*/
   }
   #branding {
     margin: -2em -8em 3em -8em;
